@@ -3,6 +3,7 @@
 ****From the seven habits of highly effective developers, What habits which software developers should have that makes them achieve effectiveness in their life and their jobs?****
 
  Answer: Sharpen the Saw
+ 
 Productive developers see the need to continue honing their skills and love learning new things. They have a thirst for knowledge and know how to manage their time. These make them can work with other people efficiently and flexibly.
 
 > Ref: The Seven Habits of Highly Effective People, written by Stephen R. Covey.
